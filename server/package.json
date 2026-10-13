@@ -1,0 +1,1 @@
+{"name":"ehsan-ai-server","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"node --watch src/server.js","start":"node src/server.js"},"dependencies":{"cors":"latest","dotenv":"latest","express":"latest","mammoth":"latest","multer":"latest","openai":"latest","pdf-parse":"^1.1.1"}}
